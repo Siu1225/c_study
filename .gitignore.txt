@@ -1,0 +1,11 @@
+# 编译生成程序
+*.exe
+*.o
+*.obj
+
+# vscode 本地配置（可选，不建议上传.vscode，每台电脑编译器路径不一样）
+.vscode/
+
+# windows系统文件
+Thumbs.db
+.DS_Store
